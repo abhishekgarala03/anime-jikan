@@ -1,6 +1,9 @@
 # anime-jikan
 Android app that fetches anime data from the Jikan API, displays a list of top anime with details pages, supports offline viewing via Room database, and follows MVVM architecture.
 
+## Download Release APK
+Download Link: v7.4-Release [Latest Release APK](https://github.com/abhishekgarala03/anime-jikan/releases/download/v7.4/AnimeXone-221430.apk)
+
 ## Project Structure
 ```
 anime-jikan/
