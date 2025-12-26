@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnimeXONE</string>
+    <string name="title_home">Top Anime</string>
+    <string name="title_details">Anime Details</string>
+    
+    <!-- Anime List -->
+    <string name="episodes_format">%d Episodes</string>
+    <string name="episodes_unknown">/? Episodes</string>
+    <string name="rating_format">★ %.1f</string>
+    <string name="no_rating">★ N/A</string>
+    <string name="pull_to_refresh">Pull to refresh</string>
+    
+    <!-- Anime Details -->
+    <string name="synopsis_title">Synopsis</string>
+    <string name="genres_title">Genres</string>
+    <string name="info_title">Information</string>
+    <string name="trailer_unavailable">Trailer not available</string>
+    <string name="read_more">Read More</string>
+    <string name="read_less">Show Less</string>
+    <string name="label_rating">Rating</string>
+    <string name="label_episodes">Episodes</string>
+    <string name="label_rank">Rank</string>
+    <string name="label_status">Status</string>
+    <string name="label_type">Type</string>
+    <string name="label_duration">Duration</string>
+    <string name="label_studios">Studios</string>
+    <string name="label_source">Source</string>
+    
+    <!-- Error States -->
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_loading">Failed to load anime</string>
+    <string name="error_generic">Something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="offline_mode">No internet connection &amp; Showing available cached data</string>
+    
+    <!-- Empty States -->
+    <string name="empty_list">No anime found</string>
+    <string name="empty_synopsis">Synopsis not available</string>
+    
+    <!-- Content Descriptions -->
+    <string name="cd_anime_poster">Anime poster image</string>
+    <string name="cd_play_trailer">Play trailer</string>
+    <string name="cd_back">Go back</string>
+</resources>
