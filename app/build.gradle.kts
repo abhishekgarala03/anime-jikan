@@ -21,8 +21,8 @@ android {
         applicationId = "com.assignment.animeapp"
         minSdk = 24
         targetSdk = 36
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 3
+        versionName = "7.4"
 
         val localProperties = rootProject.file("local.properties")
         val properties = Properties()
